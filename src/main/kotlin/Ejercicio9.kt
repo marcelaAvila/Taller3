@@ -1,4 +1,7 @@
+
+
 fun main() {
+
  var num:Int
  print("Ingrese el numero entero positivo: ")
     num = readLine()!!.toInt()
@@ -14,3 +17,4 @@ fun factorial(num:Int):Int{
     }
     return facto
 }
+
